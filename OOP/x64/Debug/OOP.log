@@ -1,0 +1,3 @@
+﻿  Main_file.cpp
+C:\Users\mihai\source\repos\OOP\OOP\Main_file.cpp(43,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP.vcxproj -> C:\Users\mihai\source\repos\OOP\x64\Debug\OOP.exe
